@@ -1,0 +1,136 @@
+/* 1 */
+body {
+    background: #b4b4b4 url("../img/pink-flowers.webp") no-repeat center/cover;
+    background-attachment: fixed; /*фон фіксується відносно вікна перегляду*/
+    font-family: "Roboto", sans-serif;
+}
+
+/* 10 */
+.wrapper {
+	width: 89%;
+    margin: 0 auto;
+    background-color: #fff; /*білий фон*/
+    padding: 0 3.5%;
+}
+
+/* 10 */
+.sunset__heading {
+	padding-top: 96px;
+    margin-bottom: 46px;
+    font-size: 2rem;
+    color: #a11414;
+}
+
+/* 10 */
+.sunset__heading--spec {
+	font-weight: bold; /*Жирний шрифт*/
+}
+
+/* 10 */
+.sunset__img-wrap {
+    padding: 14px 13px;
+    border: 1px solid #000; /*рамка*/
+    border-radius: 2px;
+    margin-bottom: 57px;
+}
+
+/* 11 */
+.sunset__img-wrap img {
+    width: 100%;
+}
+
+/* 10 */
+.info__block {
+	display: flex;
+}
+
+/* 10 */
+.info__block--flx {
+	display: block;
+}
+
+/* 20(2 classes) */
+.info__block--flx .text {
+	margin-right: 3px;
+}
+
+/* 10 */
+.text__heading {
+	color: #a11414;
+	font-size: 1.5rem;
+	font-weight: 700; 
+	margin-bottom: 15px;
+}
+
+/* 10 */
+.text__item {
+	color: #1d1b1b;
+	text-indent: 40px;
+	margin-bottom: 31px;
+}
+
+/* 10 */
+.text__item--spec {
+	text-transform: uppercase;
+}
+
+/* 10 */
+.text__item--mod {
+	color: #a11414;
+}
+
+/* 10 */
+.text_cross {
+	text-decoration: line-through;
+}
+
+/* 10 */
+.list-wrap {
+	width: 13%;
+	height: fit-content;
+	border-radius: 2px 15px;
+	background: #d7d7d7;
+	padding: 29px 26px;
+	font-family: Arial, Helvetica, sans-serif;
+	flex-shrink: 0;
+}
+
+/* 10 */
+.list__heading {
+	color: #000;
+	font-weight: 700;
+	margin-bottom: 24px;
+}
+
+/* 10 */
+.list__link {
+	color: #000;
+	text-decoration: none;
+}
+
+/* 20(class+psevdo-class)*/
+.list__link:hover {
+	font-weight: 700;
+	color: #a11414;
+	text-decoration: underline;
+}
+
+/* 10 */
+.back {
+	width: 85%;
+	margin-top: 4px;
+	padding-bottom: 18px;
+}
+
+/* 10 */
+.back__line {
+	background: url("../img/back.gif") no-repeat 0 50%;
+	background-size: 100%;
+}
+
+/* 10 */
+.back__item {
+	text-align: center;
+	padding: 7px 0 6px;
+	color: #403636;
+}
