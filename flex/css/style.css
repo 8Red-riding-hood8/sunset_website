@@ -39,16 +39,6 @@ body {
     width: 100%;
 }
 
-/* 10 */
-.info__block {
-	display: flex;
-}
-
-/* 10 */
-.info__block--flx {
-	display: block;
-}
-
 /* 20(2 classes) */
 .info__block--flx .text {
 	margin-right: 3px;
