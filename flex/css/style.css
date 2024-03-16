@@ -39,6 +39,10 @@ body {
     width: 100%;
 }
 
+.info__block {
+	float: right;
+}
+
 /* 20(2 classes) */
 .info__block--flx .text {
 	margin-right: 3px;
