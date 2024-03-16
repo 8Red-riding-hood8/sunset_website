@@ -7,7 +7,7 @@ body {
 
 /* 10 */
 .wrapper {
-	width: 89%;
+	width: 88%;
     margin: 0 auto;
     background-color: #fff; /*білий фон*/
     padding: 0 3.5%;
@@ -15,8 +15,8 @@ body {
 
 /* 10 */
 .sunset__heading {
-	padding-top: 96px;
-    margin-bottom: 46px;
+	padding-top: 6.7%;
+    margin-bottom: 3.18%;
     font-size: 2rem;
     color: #a11414;
 }
@@ -28,10 +28,10 @@ body {
 
 /* 10 */
 .sunset__img-wrap {
-    padding: 14px 13px;
+    padding: 0.97% 0.9%;
     border: 1px solid #000; /*рамка*/
     border-radius: 2px;
-    margin-bottom: 57px;
+    margin-bottom: 4%;
 }
 
 /* 11 */
@@ -59,14 +59,14 @@ body {
 	color: #a11414;
 	font-size: 1.5rem;
 	font-weight: 700; 
-	margin-bottom: 15px;
+	margin-bottom: 1%;
 }
 
 /* 10 */
 .text__item {
 	color: #1d1b1b;
 	text-indent: 40px;
-	margin-bottom: 31px;
+	margin-bottom: 2.2%;
 }
 
 /* 10 */
@@ -90,7 +90,7 @@ body {
 	height: fit-content;
 	border-radius: 2px 15px;
 	background: #d7d7d7;
-	padding: 29px 26px;
+	padding: 2% 1.8%;
 	font-family: Arial, Helvetica, sans-serif;
 	flex-shrink: 0;
 }
