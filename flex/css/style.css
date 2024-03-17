@@ -7,7 +7,7 @@ body {
 
 /* 10 */
 .wrapper {
-	width: 88%;
+	width: 88%; /* 1440 - 100% 1280 - x then x=(1280*100)/1440 */
     margin: 0 auto;
     background-color: #fff; /*білий фон*/
     padding: 0 3.5%;
