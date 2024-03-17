@@ -41,7 +41,12 @@ body {
 
 /* 10 */
 .info__block {
-	float: right;
+	display: flex;
+}
+
+/* 10 */
+.info__block--flx {
+	display: block;
 }
 
 /* 20(2 classes) */
