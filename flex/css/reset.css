@@ -4,7 +4,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     padding: 0;
     font-size: 100%;
     font: inherit;
-    vertical-align: baseline;
+    vertical-align: baseline; /* Aligns the baseline of the element with the baseline of its parent */
 }
 
 /* 1 */
@@ -40,7 +40,7 @@ q:after {
 
 /* 1 */
 table {
-    border-collapse: collapse;
+    border-collapse: collapse; /* Merge bounds for table */
     border-spacing: 0;
 }
 
