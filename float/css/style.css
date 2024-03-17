@@ -34,6 +34,10 @@ body {
     margin-bottom: 57px;
 }
 
+.list-wrap {
+	float: right;
+}
+
 /* 11 */
 .sunset__img-wrap img {
     width: 100%;
