@@ -9,7 +9,7 @@ body {
 .wrapper {
 	width: 88%; /* 1440 - 100% 1280 - x then x=(1280*100)/1440 */
     margin: 0 auto;
-    background-color: #fff; /*білий фон*/
+    background-color: #fff; /* white background */
     padding: 0 3.5%;
 }
 
@@ -23,13 +23,13 @@ body {
 
 /* 10 */
 .sunset__heading--spec {
-	font-weight: bold; /*Жирний шрифт*/
+	font-weight: bold; /* Bold print */
 }
 
 /* 10 */
 .sunset__img-wrap {
     padding: 14px 13px;
-    border: 1px solid #000; /*рамка*/
+    border: 1px solid #000; /* frame */
     border-radius: 2px;
     margin-bottom: 57px;
 }
