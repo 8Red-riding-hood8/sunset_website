@@ -17,7 +17,7 @@ body {
 .sunset__heading {
 	padding-top: 96px;
     margin-bottom: 46px;
-    font-size: 2rem;
+    font-size: 32px;
     color: #a11414;
 }
 
@@ -58,7 +58,7 @@ body {
 /* 10 */
 .text__heading {
 	color: #a11414;
-	font-size: 1.5rem;
+	font-size: 24px;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -68,6 +68,7 @@ body {
 	color: #1d1b1b;
 	text-indent: 40px;
 	margin-bottom: 31px;
+	margin-right: 3px;
 }
 
 /* 10 */
@@ -88,7 +89,6 @@ body {
 /* 10 */
 .list-wrap {
 	width: 13%;
-	height: fit-content;
 	border-radius: 2px 15px;
 	background: #d7d7d7;
 	padding: 29px 26px;
@@ -134,4 +134,8 @@ body {
 	text-align: center;
 	padding: 7px 0 6px;
 	color: #403636;
+}
+
+.clear_item {
+	clear: both;
 }
